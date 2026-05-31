@@ -1,12 +1,6 @@
 # Hi, I’m Paarmita 👋
 I’m an Product Manager with 4+ years of experience building and scaling data‑driven and Generative AI products. I focus on turning complex AI capabilities into **practical, user‑centric product**. 
-I have experience working on consumer products with the intersection of Product strategy and Generative AI. 
-
-## Personal Projects 
--  📊 [Data analysis dashboard](https://claudedataanalysis.streamlit.app/)
-A platform that helps you analyse any data set based on conversation, and suggests questions that could be meaningful from the dataset. Used Antropic API to anlayse, sample data sets from Kaggle and hosted on Streamlit
-- 💭 [Sixt Growth strategy](https://sixt-product-case.netlify.app/)
-My approach as a PM to grow Sixt Digital rental journey with personalisation. 
+I have experience working on consumer products with the intersection of Product strategy and AI. 
 
 ## About Me
 - Built and scaled Personalisation recommendation strategy for pet owners at Zooplus, used by 8M+ monthly users across 25+ consumer markets, contributing to ~7% of total platform revenue
